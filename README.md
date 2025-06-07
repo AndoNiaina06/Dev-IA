@@ -85,8 +85,6 @@ vbnet
 Copier
 Modifier
 
-Let me know if you want it tailored for GitHub with badges, usage examples, or links!
-
 
 
 
